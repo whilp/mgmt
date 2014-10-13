@@ -8,12 +8,12 @@ travelers). Come say hi.
 
 ## Cast
 
-- [whilp][] (engineering at [Simple][])
-- [stevensurgnier][] (data at [Simple][])
 - [benedmunds][] (CTO at a consultancy)
 - [jmbroad][] (bon vivant, ex-VP)
-- [vmbrasseur][] (engineering at [Simple][])
 - [petecheslock][] (ops & support at [ThreatStack][])
+- [stevensurgnier][] (data at [Simple][])
+- [vmbrasseur][] (engineering at [Simple][])
+- [whilp][] (engineering at [Simple][])
 
 [simple]:          https://simple.com/
 [threatstack]:     https://threatstack.com/
