@@ -13,10 +13,13 @@ travelers). Come say hi.
 - [benedmunds][] (CTO at a consultancy)
 - [jmbroad][] (bon vivant, ex-VP)
 - [vmbrasseur][] (engineering at [Simple][])
+- [petecheslock][] (ops & support at [ThreatStack][])
 
 [simple]:          https://simple.com/
+[threatstack]:     https://threatstack.com/
 [whilp]:           https://twitter.com/whilp
 [stevensurgnier]:  https://twitter.com/stevensurgnier
 [benedmunds]:      https://twitter.com/benedmunds
+[petecheslock]:    https://twitter.com/petecheslock
 [jmbroad]:         https://twitter.com/jmbroad
 [vmbrasseur]:      https://twitter.com/vmbrasseur
