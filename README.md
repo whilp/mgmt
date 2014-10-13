@@ -7,3 +7,8 @@ travelers). Come say hi.
 [freenode]: https://freenode.net/
 
 ## Cast
+
+- [whilp][] (engineering at [Simple][])
+
+[whilp]:   https://twitter.com/whilp
+[simple]:  https://simple.com/
