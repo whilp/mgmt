@@ -12,9 +12,10 @@ travelers). Come say hi.
 - [stevensurgnier][] (data at [Simple][])
 - [benedmunds][] (CTO at a consultancy)
 - [jmbroad][] (bon vivant, ex-VP)
-- [petecheslock][] (ops & support at Threat Stack)
+- [petecheslock][] (ops & support at [ThreatStack][])
 
 [simple]:          https://simple.com/
+[threatstack]:     https://threatstack.com/
 [whilp]:           https://twitter.com/whilp
 [stevensurgnier]:  https://twitter.com/stevensurgnier
 [benedmunds]:      https://twitter.com/benedmunds
