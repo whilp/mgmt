@@ -16,3 +16,7 @@ travelers). Come say hi.
 - [stevensurgnier][] (data at [Simple][])
 
 [stevensurgnier]:   https://twitter.com/stevensurgnier
+
+- [benedmunds][] (CTO at a consultancy)
+
+[benedmunds]:   https://twitter.com/benedmunds
