@@ -12,10 +12,11 @@ travelers). Come say hi.
 - [stevensurgnier][] (data at [Simple][])
 - [benedmunds][] (CTO at a consultancy)
 - [jmbroad][] (bon vivant, ex-VP)
+- [vmbrasseur][] (engineering at [Simple][])
 
 [simple]:          https://simple.com/
 [whilp]:           https://twitter.com/whilp
 [stevensurgnier]:  https://twitter.com/stevensurgnier
 [benedmunds]:      https://twitter.com/benedmunds
 [jmbroad]:         https://twitter.com/jmbroad
-
+[vmbrasseur]:      https://twitter.com/vmbrasseur
