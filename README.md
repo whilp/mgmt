@@ -16,9 +16,11 @@ travelers). Come say hi.
 - [vmbrasseur][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
 - [JT][] (security at [Simple][])
+- [mindweather][] (VPE at [Next Big Sound][])
 
 [simple]:          https://simple.com/
 [threatstack]:     https://threatstack.com/
+[Next Big Sound]:  https://nextbigsound.com/
 [whilp]:           https://twitter.com/whilp
 [stevensurgnier]:  https://twitter.com/stevensurgnier
 [benedmunds]:      https://twitter.com/benedmunds
@@ -27,3 +29,4 @@ travelers). Come say hi.
 [vmbrasseur]:      https://twitter.com/vmbrasseur
 [jwoodcock]:       https://twitter.com/jwoodcock
 [JT]:              https://twitter.com/jdarrelthomas
+[mindweather]:     https://twitter.com/mindweather
