@@ -14,6 +14,7 @@ travelers). Come say hi.
 - [stevensurgnier][] (data at [Simple][])
 - [vmbrasseur][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
+- [JT][] (security at [Simple][])
 
 [simple]:          https://simple.com/
 [threatstack]:     https://threatstack.com/
@@ -23,3 +24,4 @@ travelers). Come say hi.
 [petecheslock]:    https://twitter.com/petecheslock
 [jmbroad]:         https://twitter.com/jmbroad
 [vmbrasseur]:      https://twitter.com/vmbrasseur
+[JT]:              https://twitter.com/jdarrelthomas
