@@ -10,6 +10,7 @@ travelers). Come say hi.
 
 - [benedmunds][] (CTO at a consultancy)
 - [jmbroad][] (bon vivant, ex-VP)
+- [jwoodcock][] (CTO at Tandum)
 - [petecheslock][] (ops & support at [ThreatStack][])
 - [stevensurgnier][] (data at [Simple][])
 - [vmbrasseur][] (engineering at [Simple][])
@@ -23,3 +24,4 @@ travelers). Come say hi.
 [petecheslock]:    https://twitter.com/petecheslock
 [jmbroad]:         https://twitter.com/jmbroad
 [vmbrasseur]:      https://twitter.com/vmbrasseur
+[jwoodcock]:       https://twitter.com/jwoodcock
