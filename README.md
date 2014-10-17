@@ -8,30 +8,31 @@ travelers). Come say hi.
 
 ## Cast
 
+- [JT][] (security at [Simple][])
 - [benedmunds][] (CTO at a consultancy)
 - [jmbroad][] (bon vivant, ex-VP)
+- [jssjr][] (infra at [GitHub][])
 - [jwoodcock][] (CTO at Tandum)
+- [mindweather][] (VPE at [Next Big Sound][])
 - [petecheslock][] (ops & support at [ThreatStack][])
 - [stevensurgnier][] (data at [Simple][])
 - [vmbrasseur][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
-- [JT][] (security at [Simple][])
-- [mindweather][] (VPE at [Next Big Sound][])
-- [jssjr][] (infra at [GitHub][])
 - [whoahbot][] (VPE at [Simple][])
 
+[JT]:              https://twitter.com/jdarrelthomas
+[benedmunds]:      https://twitter.com/benedmunds
+[jmbroad]:         https://twitter.com/jmbroad
+[jssjr]:           https://twitter.com/scott_sanders
+[jwoodcock]:       https://twitter.com/jwoodcock
+[mindweather]:     https://twitter.com/mindweather
+[petecheslock]:    https://twitter.com/petecheslock
+[stevensurgnier]:  https://twitter.com/stevensurgnier
+[vmbrasseur]:      https://twitter.com/vmbrasseur
+[whilp]:           https://twitter.com/whilp
+[whoahbot]:        https://twitter.com/whoahbot
+
+[GitHub]:          https://github.com
+[Next Big Sound]:  https://nextbigsound.com/
 [simple]:          https://simple.com/
 [threatstack]:     https://threatstack.com/
-[Next Big Sound]:  https://nextbigsound.com/
-[whilp]:           https://twitter.com/whilp
-[stevensurgnier]:  https://twitter.com/stevensurgnier
-[benedmunds]:      https://twitter.com/benedmunds
-[petecheslock]:    https://twitter.com/petecheslock
-[jmbroad]:         https://twitter.com/jmbroad
-[vmbrasseur]:      https://twitter.com/vmbrasseur
-[jwoodcock]:       https://twitter.com/jwoodcock
-[JT]:              https://twitter.com/jdarrelthomas
-[mindweather]:     https://twitter.com/mindweather
-[jssjr]:           https://twitter.com/scott_sanders
-[GitHub]:          https://github.com
-[whoahbot]:        https://twitter.com/whoahbot
