@@ -17,6 +17,7 @@ travelers). Come say hi.
 - [whilp][] (engineering at [Simple][])
 - [JT][] (security at [Simple][])
 - [mindweather][] (VPE at [Next Big Sound][])
+- [whoahbot][] (VPE at [Simple][])
 
 [simple]:          https://simple.com/
 [threatstack]:     https://threatstack.com/
@@ -30,3 +31,4 @@ travelers). Come say hi.
 [jwoodcock]:       https://twitter.com/jwoodcock
 [JT]:              https://twitter.com/jdarrelthomas
 [mindweather]:     https://twitter.com/mindweather
+[whoahbot]:        https://twitter.com/whoahbot
