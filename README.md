@@ -18,6 +18,7 @@ travelers). Come say hi.
 - [JT][] (security at [Simple][])
 - [mindweather][] (VPE at [Next Big Sound][])
 - [jssjr][] (infra at [GitHub][])
+- [whoahbot][] (VPE at [Simple][])
 
 [simple]:          https://simple.com/
 [threatstack]:     https://threatstack.com/
@@ -33,3 +34,4 @@ travelers). Come say hi.
 [mindweather]:     https://twitter.com/mindweather
 [jssjr]:           https://twitter.com/scott_sanders
 [GitHub]:          https://github.com
+[whoahbot]:        https://twitter.com/whoahbot
